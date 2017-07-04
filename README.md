@@ -16,20 +16,15 @@ Altis has fallen to enemy forces, and it is up to you to take it back. Embark wi
 * Accomplish meaningful secondary objectives that will benefit your progression,
 * Never lose your progress with the built-in server-side save system.
 
-## ChangeLog Current version : 1.0 Release
-* Fixed AI not being able to turn and engage while strongpointing a building.
-* Added: Static Weapon Compositions to all Sectors. [Demonstration](https://www.youtube.com/watch?v=NaDF7nyyHKk&list=PLTSdCKB8i2s8JlzRNiNV5v8fWCWdZiFJJ&index=2)
-* Added: Static Line Paradrop in place of HALO for players and friendly AI. [Demostration](https://www.youtube.com/watch?v=qIPvhnQjxg8&list=PLTSdCKB8i2s8JlzRNiNV5v8fWCWdZiFJJ&index=1).
-* Added: New Sector Types, Road Blocks, Defensive Blocking Positions, SAM Sites, AAA Sites, HeadQuarters, and more. [Demonstration](https://www.youtube.com/watch?v=NaDF7nyyHKk&list=PLTSdCKB8i2s8JlzRNiNV5v8fWCWdZiFJJ&index=2)
-* Added: New types of non sector events like Enemy Ambushes, Static Positions, and more.
-* Adapted: Ambient Boat Spawning.
-* Added: Detection of other addon(s) to automagically switch out arsenal preset equipment and medicine(s).
-* Added: AI Medical system that allows AI medics and soldiers to provide medical treatment to players and ai alike.
-* Adapted: KP_Liberation's great changes and bug fixes to the [GREUH] version of liberation, excluding the new resource system.
-
 ## Contributors
 
-* [Gemini](https://forums.bistudio.com/profile/745011-gemini/) for the use as a learning tool and integration of his great scripts from OPEX into Liberation.
-* [Reyhard](https://forums.bistudio.com/profile/750123-reyhard/) for the permission to use and modify existing script from RHS.
-* [Wyqer](https://forums.bistudio.com/profile/1059982-wyqer/) for his continued development of Liberation, great config changes, and inspiration of working on Liberation once again. Adapted under MIT License.
-* Most of all, the guys at [GREUH] for creating and extending the Liberation framework.
+* "SCUD" for continued help trying to retrain my brain how to work with ARMA scripts and the Database Integration test we pulled off in record time that actually worked in [WarFighter] Liberation.
+* "Luker", Col. J.C. and other members of the US Military and friends of ours for brainstorming sessions about logistics past, present, and the theoretical future.
+* Clarkey for the use of one of his great scripts, modified by BI Forum users.
+* FFAA Mod Team for great addons and videos showcasing their amazing work.
+* Psychobastard for his great scripts and taking the time to jab my eye out when I missed the obvious.
+* Gemini for the use as a learning tool and integration of his great scripts from OPEX into Liberation.
+* Reyhard for the permission to use and modify existing script from RHS.
+* Wyqer and Applejakerie for their continued development of KP_Liberation, great config changes, and the inspiration of working on Liberation once again.
+* The fantastic and smarter than us, the guys at [GREUH] for creating and extending Liberation.
+* Most of all, XTremeZ and the members of his community for testing, advice, hosting, inspiration, and friendship from our years in ARMA and long before.
