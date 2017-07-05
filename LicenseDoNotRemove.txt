@@ -1,0 +1,24 @@
+Code not edited, customized, or modified by [WarFighter] Liberation is Licensed under:
+https://github.com/GreuhZbug/greuh_liberation.Altis/blob/master/LICENSE
+https://github.com/Wyqer/kp_liberation/blob/master/LICENSE.md
+
+Code edited, customized and modified by [WarFighter] Liberation is Licensed under:
+ 
+Disclaimer and License
+ 
+ALL THE COMPUTER PROGRAMS AND SOFTWARE ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. WE MAKE NO WARRANTIES, EXPRESS OR IMPLIED, THAT THEY ARE FREE OF ERROR, OR ARE CONSISTENT WITH ANY PARTICULAR STANDARD OF MERCHANT-ABILITY, OR THAT THEY WILL MEET YOUR REQUIREMENTS FOR ANY PARTICULAR APPLICATION. THEY SHOULD NOT BE RELIED ON FOR SOLVING A PROBLEM WHOSE INCORRECT SOLUTION COULD RESULT IN INJURY TO A PERSON OR LOSS OF PROPERTY. IF YOU DO USE THEM IN SUCH A MANNER, IT IS AT YOUR OWN RISK. THE AUTHOR AND PUBLISHER DISCLAIM ALL LIABILITY FOR DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES RESULTING FROM YOUR USE OF THE PROGRAMS.
+By downloading and/or using [WarFighter] Liberation, you hereby agree to the following license agreement.
+
+You may modify or customize [WarFighter] Liberation for your personal or community use only.
+
+You agree to not post your derivative works of [WarFighter] Liberation.
+
+You agree not to remove our license or credits anywhere within [WarFighter Liberation] including this text document.
+
+You agree to not to reuse or redisribute our customized or edited code within [WarFighter] Liberation without the permission of [WarFighter] Liberation, Sowens and content providers.
+
+If you do want to create derivatives of [WarFighter] Liberation, reuse our customized or edited code within [WarFighter] Liberation, just ask! Send Sowens a message via BI Forums to obtain permission. He will direct you to the appropriate contributors so you may obtain permission as we have.
+
+
+
+
