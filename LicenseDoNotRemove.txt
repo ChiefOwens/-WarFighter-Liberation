@@ -23,7 +23,9 @@ You agree to not post your derivative works of [WarFighter] Liberation.
 You agree not to remove our license or credits anywhere within [WarFighter Liberation] including 
 this text document.
 
-You agree to not to reuse, reverse engineer, or redistribute our customized, edited or modified code, in any part, that is within [WarFighter] Liberation without the permission of [WarFighter] Liberation, Sowens and content providers.
+You agree to not to reuse, reverse engineer, or redistribute our customized, edited or modified code, 
+in any part, that is within [WarFighter] Liberation without the permission of [WarFighter] Liberation, 
+Sowens and content providers.
 
 If you do want to create derivatives of [WarFighter] Liberation, reuse our customized or edited code 
 within [WarFighter] Liberation, just ask! Send Sowens a message via BI Forums to obtain permission. 
